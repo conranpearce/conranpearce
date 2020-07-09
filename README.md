@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-Check out my repos below ⬇️  
+Explore out my repos below ⬇️  
 </p>
 <!--
 **conranpearce/conranpearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
