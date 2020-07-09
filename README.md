@@ -1,5 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+   Hi there 👋
+</h1>
 
+<p align="center">
+ I am a Computer Science student, currently on a placement year.
+</p>
+
+
+<p align="center">
+  Check out my personal website <a href="https://conranpearce.github.io/">here</a>
+</p>
+
+
+<p align="center">
+  <img width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</p>
+
+<p align="center">
+Check out my repos below ⬇️  
+</p>
 <!--
 **conranpearce/conranpearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
