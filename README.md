@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- I am a Computer Science student, currently on a placement year.
+ I am a final year Computer Science student, recently returning to University from a placement year.
 </p>
 
 
